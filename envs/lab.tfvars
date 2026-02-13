@@ -1,6 +1,6 @@
 virtual_machines = {
   sample_iac_machine = {
-    virtual_machine_name        = "sample-machine1"
+    virtual_machine_name        = "sandboxvm1"
     virtual_machine_description = "Deployed via TF - Do not Edit"
     image                       = "ubuntu24"
     flavor                      = "medium"
